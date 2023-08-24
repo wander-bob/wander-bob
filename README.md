@@ -1,7 +1,7 @@
 ### <h1> Bem-vindo 🖖</h1>
 <div>
 
--🔭 Atualmente, trabalho com suporte de microinformática (suporte em desktops Windows).
+-🔭 Estou começando minha carreira em cibersegurança.
 
 </div>
 
