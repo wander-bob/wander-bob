@@ -1,7 +1,7 @@
 ### <h1> Bem-vindo 🖖</h1>
 <div>
 
--🔭 Estou começando minha carreira em cibersegurança.
+-🔭 Estou em migração de carreira saindo da área de cibersegurança para desenvolvimento.
 
 </div>
 
