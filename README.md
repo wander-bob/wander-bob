@@ -29,8 +29,8 @@
 <p align="left">
   Me chamo Wanderson Alves, sou da zona sul de São Paulo (SP, BR).
 <br><br>
-🔭 Atualmente sou um analista SOC (centro de operações de cibersegurança)<br>
-📚 Atualmente estou aprendendo NestJS e ReactJS<br>
+🔭 Recentemente saí da área de segurança da informação e estou procurando recolocação no mercado de desenvolvimento<br>
+📚 Atualmente estou estudando NestJS e ReactJS<br>
 ⚡ No meu tempo livre gosto de ler, jogar video game e praticar exercícios</p>
 
 ---
@@ -40,10 +40,10 @@
 ✔️ Tenho um ótimo foco e sou bastante dedicado <br>
 ✔️ Sou um ótimo ouvinte e também me comunico bem <br>
 ✔️ Tenho facilidade para trabalhar em time <br>
-✔️ Gosto muito de ajudar e estou sempre à postos <br>
 ✔️ Já trabalhei em ambientes críticos e lido bem com ambientes em evolução constante <br>
+✔️ Gosto genuinamente de ajudar pessoas <br>
 ✔️ Sou um admirador de pessoas e amo aprender com quem está ao meu redor <br>
-✔️ Gosto muito de estudar e tenho um perfil bastante generalista, gostando de estudar diversos temas e áreas <br>
+✔️ Gosto muito de estudar e tenho um perfil generalista, gostando de estudar diversos temas e áreas <br>
 
 ---
 
