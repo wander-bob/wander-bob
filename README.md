@@ -37,26 +37,26 @@
 
 <h3>Soft skills</h3>
 
-✔️ Tenho um ótimo foco e sou bastante dedicado
-✔️ Sou um ótimo ouvinte e também me comunico bem
-✔️ Tenho facilidade para trabalhar em time
-✔️ Gosto muito de ajudar e estou sempre à postos
-✔️ Já trabalhei em ambientes críticos e lido bem com ambientes em evolução constante
-✔️ Sou um admirador de pessoas e amo aprender com quem está ao meu redor
-✔️ Gosto muito de estudar e tenho um perfil bastante generalista, gostando de estudar diversos temas e áreas
+✔️ Tenho um ótimo foco e sou bastante dedicado <br>
+✔️ Sou um ótimo ouvinte e também me comunico bem <br>
+✔️ Tenho facilidade para trabalhar em time <br>
+✔️ Gosto muito de ajudar e estou sempre à postos <br>
+✔️ Já trabalhei em ambientes críticos e lido bem com ambientes em evolução constante <br>
+✔️ Sou um admirador de pessoas e amo aprender com quem está ao meu redor <br>
+✔️ Gosto muito de estudar e tenho um perfil bastante generalista, gostando de estudar diversos temas e áreas <br>
 
 ---
 
 <h3>Hard skills </h3>
 
-✔️ Desenvolvimento de sites
-✔️ Domínio do HTML
-✔️ Domínio do CSS
-✔️ Domínio intermediário JavaScript
-✔️ Vivênca com sistemas Windows e Windows Server
-✔️ Domínio iniciante em Linux Debian
-✔️ Domínio iniciante em Bash Script
-✔️ Domínio iniciante em Docker
+✔️ Desenvolvimento de sites <br>
+✔️ Domínio do HTML <br>
+✔️ Domínio do CSS <br>
+✔️ Domínio intermediário JavaScript <br>
+✔️ Vivênca com sistemas Windows e Windows Server <br>
+✔️ Domínio iniciante em Linux Debian <br>
+✔️ Domínio iniciante em Bash Script <br>
+✔️ Domínio iniciante em Docker <br>
 
 
 ---
